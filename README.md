@@ -63,6 +63,18 @@
     </td>
   </tr>
   <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
+      <br>React
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      <br>Firebase
+    </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
       <br>Flutter
@@ -70,18 +82,6 @@
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
       <br>Dart
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
-      <br>Firebase
     </td>
   </tr>
   <tr>
