@@ -25,7 +25,7 @@
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://t.me/@anjumhossain" target="_blank">
+                    <a href="https://t.me/anjumhossain" target="_blank">
                         <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" alt="Telegram" />
                         <br>Telegram
                     </a>
@@ -42,36 +42,16 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="45" height="45" />
-      <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="45" height="45" />
+      <br>Tailwind
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -81,9 +61,27 @@
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="Javascript" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
+      <br>React
+    </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      <br>Firebase
     </td>
   </tr>
   <tr>
@@ -127,6 +125,7 @@
     </td>
   </tr>
 </table>
+
 
 <br><br>
 </div>
