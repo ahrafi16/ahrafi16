@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am Anjum Hossain. I'm currently working on Mobile Development. As a mobile app developer, I use Flutter which is a framework for cross-platform native app development and I really love it.</h4>
+<h4 align="left">I'm Anjum Hossain, a passionate web developer focused on building dynamic, modern web applications. I specialize in React, a powerful framework that allows me to create seamless and engaging user experiences on the web, and I truly enjoy working with it.</h4>
 
 ###
 
