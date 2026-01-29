@@ -40,12 +40,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahrafi16&theme=radical&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrafi16&theme=radical&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrafi16&theme=radical&layout=compact&hide_border=true&hide=c%2B%2B&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahrafi16&theme=radical&hide_border=true" height="165"/>
 </p>
+
 
 ---
 
