@@ -23,15 +23,16 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
   <br/>
-  <!-- Backend & Mobile -->
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,flutter,dart" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,dart" />
   <br/>
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c,java,python" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 </p>
+
 
 ---
 
