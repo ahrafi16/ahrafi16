@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Anjum Hossain</h1>
-<h3 align="center">💻 Passionate Web Developer | React Enthusiast 🚀</h3>
+<h3 align="center">Passionate Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7B42F6&center=true&vCenter=true&width=500&lines=I+love+building+modern+web+apps;React+is+my+happy+place;Always+learning+and+creating!">
