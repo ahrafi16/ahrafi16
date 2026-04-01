@@ -19,15 +19,14 @@
 ## 👨‍💻  About Me
 
 ```yaml
-name        : Hafizur Rahman
+name        : ANJUM HOSSAIN
 alias       : ahrafi16
-role        : Flutter Developer @ Shpper (Dubai 🇦🇪)
-experience  : 1+ years in software engineering
-specialty   : Flutter · Firebase · Cloud · AI · DevOps
-focus       : Cross-platform apps · Scalable systems 
+role        : Web Developer
+experience  : 2+ years in web developing
+specialty   : React · Next.JS · Node.JS · AI · Express.JS 
 currently   : Scaling Shpper’s logistics & e-commerce platform
 education   : B.Sc. Computer Science — DIU, BD (2025)
-contact     : hafizur.rahman.cs@gmail.com
+contact     : anjumhossainrafi16@gmail.com
 ```
 
 <div align="center">
