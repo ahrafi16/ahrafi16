@@ -23,9 +23,8 @@ name        : ANJUM HOSSAIN
 alias       : ahrafi16
 role        : Web Developer
 experience  : 2+ years in web developing
-specialty   : React · Next.JS · Node.JS · AI · Express.JS 
-currently   : Scaling Shpper’s logistics & e-commerce platform
-education   : B.Sc. Computer Science — DIU, BD (2025)
+specialty   : React · Next.Js · Node.Js · Express.Js . AI
+education   : BSc. Computer Science — DIU, BD (2025)
 contact     : anjumhossainrafi16@gmail.com
 ```
 
