@@ -23,7 +23,7 @@ name        : ANJUM HOSSAIN
 alias       : ahrafi16
 role        : Web Developer
 experience  : 2+ years in web developing
-specialty   : React · Next.Js · Node.Js · Express.Js . AI
+specialty   : React · Next.Js · Node.Js · Express.Js . MongoDB . AI
 education   : BSc. Computer Science — DIU, BD (2025)
 contact     : anjumhossainrafi16@gmail.com
 ```
