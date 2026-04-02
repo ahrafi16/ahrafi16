@@ -73,7 +73,7 @@ contact     : anjumhossainrafi16@gmail.com
 
 ---
 
-## 🏆  Achievements
+## 🏆 Achievements
 
 <div align="center">
 
