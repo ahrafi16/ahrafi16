@@ -28,18 +28,6 @@ education   : BSc. Computer Science — DIU, BD (2025)
 contact     : anjumhossainrafi16@gmail.com
 ```
 
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🚀 **1+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
-| 👥 Led distributed teams of **20+ engineers** | ⚡ **15%** faster delivery via CI/CD |
-| 📊 **20%** ops efficiency gain with analytics | 🔧 **30%** system performance optimization |
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
