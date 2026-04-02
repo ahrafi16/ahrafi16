@@ -41,29 +41,29 @@ contact     : anjumhossainrafi16@gmail.com
 
 ---
 
-## 🛠️  Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**📱 Mobile & Cross-Platform**
+**🌐 Frontend Development**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
 
-**☁️ Cloud & DevOps**
+**⚙️ Backend Development**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions)](https://skillicons.dev)
-
-**🤖 AI & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,python,django,graphql,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 **🗄️ Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
-**🔧 Tools**
+**🤖 AI & Programming**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+**🔧 Tools & Workflow**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 </div>
 
