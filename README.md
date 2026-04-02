@@ -102,34 +102,6 @@ contact     : anjumhossainrafi16@gmail.com
 
 </div>
 
----
-
-## 🚀  What I Build at Shpper
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Architecture & Engineering
-- Design **enterprise-grade** microservice architectures
-- Build **cross-platform** Flutter apps (Android · iOS · Web)
-- Integrate **AI/ML** pipelines for intelligent logistics
-- Architect **real-time** data systems with Firebase & GCP
-
-</td>
-<td width="50%">
-
-### 👥 Leadership & Strategy
-- Lead **20+ engineers** across global time zones
-- Drive **technical roadmap** aligned with business goals
-- Implement **CI/CD** pipelines for zero-downtime deploys
-- Mentor developers & enforce **code quality standards**
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈  Contribution Activity
 
